@@ -1,2 +1,2 @@
 # defenseless
-2019 Global Game Game Project  *STILL IN PRODUCTION*
+2019 Global Game Game Project created in Unity using C#  *STILL IN PRODUCTION*
